@@ -1,0 +1,2 @@
+# otbasybank_ipoteka
+otbasybank_ipoteka
